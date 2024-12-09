@@ -70,7 +70,7 @@ I'm Sadhan Das from Coochbehar, West Bengal. Currently I'm pursuing bachelor of 
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">Teamwork</h3>
-                                <span className="skills__number">100%</span>
+                                <span className="skills__number">85%</span>
                             </div>
 
                             <div className="skills__bar">
