@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Image from '../../assets/ME.jpg';
+import Image from '../../assets/ME.webp';
 import Resume from '../../assets/resume.pdf';
 // import AboutBox from './AboutBox';
 
