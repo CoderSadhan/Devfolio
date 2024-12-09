@@ -1,7 +1,7 @@
-import Work1 from "../../assets/ERP SYSTEM DASHBOARD.png";
-import Work2 from "../../assets/CURRENCY CONVERTER.png";
-import Work3 from "../../assets/WEATHER.png";
-import Work4 from "../../assets/PORTFOLIO.png";
+import Work1 from "../../assets/ERP SYSTEM DASHBOARD.webp";
+import Work2 from "../../assets/CURRENCY CONVERTER.webp";
+import Work3 from "../../assets/WEATHER.webp";
+import Work4 from "../../assets/PORTFOLIO.webp";
 import Work5 from "../../assets/blog-1.svg";
 
 const Menu = [
