@@ -33,7 +33,7 @@ const Menu = [
 	{
 		id: 4,
 		image: Work4,
-		title: "Devfolio-Me",
+		title: "Devfolio",
 		category: ["Frontend", "React"],
 		url: "https://sadhandas.netlify.app/",
 		repositoryUrl: "https://github.com/CoderSadhan/My-Portfolio"
@@ -41,7 +41,7 @@ const Menu = [
 	{
 		id: 5,
 		image: Work5,
-		title: "Youtube Ad skipper",
+		title: "Youtube Ad Skipper",
 		category: ["Backend"],
 		repositoryUrl: "https://github.com/CoderSadhan/Youtube-Ad-Skipper"
 	}

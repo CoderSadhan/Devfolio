@@ -5,9 +5,12 @@ const WorkExperience = [
         company: "Ardent Computech PVT LTD",
         yearsActive: "May 2024 - July 2024 ",
         information: [
+            "Developed a full-featured College ERP system with separate modules for Admin, Student, and Faculty panels.",
             "Developed and managed a REST API using React and MongoDB to store data",
-            "Developed responsive and dynamic front-end interfaces using React.js, Material-UI/Bootstrap.",
-            "Utilized MongoDB aggregation pipelines to process large sets of student data, optimizing complex queries for faster data retrieval, particularly in the reporting and analytics modules."
+             "Created comprehensive reporting tools that generate visual insights and analytics for Admin and Faculty to monitor student performance, attendance .",
+            "Developed responsive and dynamic front-end interfaces using React.js, Material-UI/Bootstrap."
+           
+            
         ],
     }  
    

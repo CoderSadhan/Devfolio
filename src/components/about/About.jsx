@@ -21,21 +21,17 @@ const About = () => {
                     <div className="about__info">
                         <p className="about__description">
                         Hello!<br/>
-I'm Sadhan Das from Coochbehar, West Bengal. Currently I'm pursuing Bachelor of Engineering in Information Technology at University Institute of Technology. 
-
-I’m on an exciting journey of learning and growth. I’m currently focused on improving my skills and expanding my portfolio by building creative and impactful projects. My goal is to keep improving as a software engineer while contributing as a dedicated  role I take on.
-
-I’m always eager to explore new technologies and solve real-world problems.<br /><br />
+I'm Sadhan Das from Coochbehar, West Bengal. Currently I'm pursuing bachelor of engineering in Information Technology at University Institute of Technology. I’m on an exciting journey of learning and growth. I’m currently focused on improving my skills and expanding my portfolio by building creative and impactful projects. My goal is to keep improving as a software engineer while contributing as a dedicated  role I take on. I’m always eager to explore new technologies and solve real-world problems.<br /><br />
                             Here are a few technologies I’ve been working with recently:
                         </p>
                         <ul className="about__list">
                             <li>HTML & CSS</li>
                             <li>React</li>
-                            <li>JavaScript (ES6+)</li>
+                            <li>JavaScript</li>
                            
                            
                             
-                            <li>NextJS</li>
+                            <li>Next.js</li>
                             <li>Node.js</li>
                             <li>SQL</li>
                             <li>Mongo DB</li>
