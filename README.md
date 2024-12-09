@@ -7,7 +7,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ```bash
 # Clone this repository
 $ git clone https://github.com/CoderSadhan/Sadhan-react-portfolio
-  change the .env file data 
+
+$ Go and change the .env file data 
 
 # Go into the repository
 $ cd Sadhan-react-portfolio
