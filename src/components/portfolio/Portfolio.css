@@ -9,11 +9,6 @@
 .portfolio__item {
   cursor: pointer;
   font-weight: var(--font-bold);
-}
-
-.portfolio__item {
-  cursor: pointer;
-  font-weight: var(--font-bold);
   transition: 0.3s;
 }
 
@@ -26,6 +21,7 @@
 }
 
 .portfolio__container {
+  display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.875rem;
 }
@@ -35,6 +31,20 @@
   overflow: hidden;
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
+}
+
+.portfolio__thumbnail {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.portfolio__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Options: cover, contain, fill, none */
+  transition: 0.3s ease-in-out;
 }
 
 .portfolio__mask {

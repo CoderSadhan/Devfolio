@@ -3,6 +3,7 @@ import Work2 from "../../assets/CURRENCY CONVERTER.webp";
 import Work3 from "../../assets/WEATHER.webp";
 import Work4 from "../../assets/PORTFOLIO.webp";
 import Work5 from "../../assets/blog-1.svg";
+import Work6 from "../../assets/Food.webp"
 
 const Menu = [
 	{
@@ -44,6 +45,13 @@ const Menu = [
 		title: "Youtube Ad Skipper",
 		category: ["Backend"],
 		repositoryUrl: "https://github.com/CoderSadhan/Youtube-Ad-Skipper"
+	},
+	{
+		id: 6,
+		image: Work6,
+		category:["Frontend" , "Backend"],
+		repositoryUrl : "https://github.com/CoderSadhan/Food-Delivery-App"
+		
 	}
 ];
 
