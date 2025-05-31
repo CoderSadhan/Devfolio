@@ -4,6 +4,8 @@ import Work3 from "../../assets/WEATHER.webp";
 import Work4 from "../../assets/PORTFOLIO.webp";
 import Work5 from "../../assets/blog-1.svg";
 import Work6 from "../../assets/Food.webp"
+import work7 from"../../assets/Chat-App.webp";
+import work8 from "../../assets/Password.webp"
 
 const Menu = [
 	{
@@ -49,9 +51,26 @@ const Menu = [
 	{
 		id: 6,
 		image: Work6,
+		title: "Food Delivery App",
 		category:["Frontend" , "Backend"],
 		repositoryUrl : "https://github.com/CoderSadhan/Food-Delivery-App"
 		
+	},
+	{
+		id: 7,
+		image: work7,
+		title: "Online Chat Application",
+		category:["Frontend" ],
+		url : "https://online-chat-app-sadhan-das-projects.vercel.app/",
+		repositoryUrl : "https://github.com/CoderSadhan/Online_Chat_App"
+	},
+	{
+		id: 8,
+		image: work8,
+		title: "Random Password Generator",
+		category:["Frontend" ],
+		url:"https://random-password-generator-sadhan-das-projects.vercel.app/",
+		repositoryUrl : "https://github.com/CoderSadhan/Random_Password_Generator"
 	}
 ];
 
